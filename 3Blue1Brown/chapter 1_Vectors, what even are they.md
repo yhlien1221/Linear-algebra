@@ -10,8 +10,8 @@
 > For example, the meaning of  (-2,3) represent the distance from origin (0,0) to the x axis and y axis separately, the meaning of positive and minus is the direction of space. There is a z-axis in the three dimensional.
 ## Geometric meaning of Vector
 1. Addition:Sum of Two Vectors = move along vector 1 , then move along vector 2 then the total travel is the sum of the two vectors (ie Matrix addition )then following the end point from the origin
-![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/1_2.png)
-![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/1_3.png)
+<br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/1_2.png)<br/>
+<br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/1_3.png)<br/>
 2. Scaling:Multiplication of vectors : scaling the factors by a factor multiplied
 ![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/1_4.png)
 ![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/1_5.png)
