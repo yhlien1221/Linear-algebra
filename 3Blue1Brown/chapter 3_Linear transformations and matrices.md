@@ -38,6 +38,7 @@
 <!-- ref
 https://www.jianshu.com/p/75cfb1f3c7ed
 https://harshityadav95.medium.com/notes-essence-of-linear-algebra-7d5388b2a940
+https://zhuanlan.zhihu.com/p/59137639
 <br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/3_14.png)<br/>
 <br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/3_15.png)<br/>
 <br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/3_16.png)<br/>
