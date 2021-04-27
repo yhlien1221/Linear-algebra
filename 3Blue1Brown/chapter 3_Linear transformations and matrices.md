@@ -35,6 +35,7 @@
 <br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/3_13.png)<br/>
 * Tranformed vector will be on the same line of original vetor if there was linear dependent between original vector and tranformed vector. 
 
+
 <!-- ref
 https://www.jianshu.com/p/75cfb1f3c7ed
 https://harshityadav95.medium.com/notes-essence-of-linear-algebra-7d5388b2a940

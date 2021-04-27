@@ -1,6 +1,6 @@
-# 3D linear transformation
+# Determinant
 <br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/6_1.png)<br/>
-* Linear transformation:some strentch out grids and others squish (squeeze) grids. Determinant can bed used to measure the changed after linear transformation
+* Linear transformation:some strentch out grids and others squish (squeeze) grids. Determinant can be used to measure the changed after linear transformation
 ## Examle
 <br>![image](https://github.com/yhlien1221/Linear-algebra/blob/main/3Blue1Brown/pic/6_2.png)<br/>
 * There is a vector [1,1]
